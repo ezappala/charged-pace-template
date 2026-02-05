@@ -1,0 +1,11 @@
+[package]
+name = "charged-pace-template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Éloïse Zappala"]
+license = "MIT-0"
+description = "A template for writing a disertation or thesis in the format required for Pace University."
+
+[template]
+path = "template"
+entrypoint = "main.typ"
